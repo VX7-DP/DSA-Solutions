@@ -5,7 +5,7 @@ My solutions to data structures and algorithms problems, organized by platform t
 ## Structure
 
 ```
-DSA/
+DSA Solutions/
 ├── AZ/                          # AlgoZenith problems
 │   ├── Basic/
 │   ├── Binary Search/
